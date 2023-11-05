@@ -7,11 +7,14 @@ import distanceToNow from '../../lib/dateRelative'
 import { getAllPosts, getPostBySlug } from '../../lib/getPost'
 import markdownToHtml from '../../lib/markdownToHtml'
 import Head from 'next/head'
+import { serverSideTranslations } from 'next-i18next/serverSideTranslations'
 
 export default function PostPage({
   post,
 }: InferGetStaticPropsType<typeof getStaticProps>) {
   const router = useRouter()
+
+  console.log(`router.isFallback: ${router.isFallback}`)
 
   if (!router.isFallback && !post?.slug) {
     return <ErrorPage statusCode={404} />
@@ -54,18 +57,22 @@ export default function PostPage({
 type Params = {
   params: {
     slug: string
-  }
+  },
+  locale: string
 }
 
-export async function getStaticProps({ params }: Params) {
-  const post = getPostBySlug(params.slug, [
+export async function getStaticProps({ params, locale }: Params) {
+  const post = getPostBySlug(params.slug, locale, [
     'slug',
     'title',
     'excerpt',
     'date',
     'content',
-  ])
-  const content = await markdownToHtml(post.content || '')
+  ]);
+
+  const content = await markdownToHtml(post.content || '');
+
+  const translationProps = await serverSideTranslations(locale);
 
   return {
     props: {
@@ -73,21 +80,35 @@ export async function getStaticProps({ params }: Params) {
         ...post,
         content,
       },
+      ...translationProps, // Merge translation props into the props object
     },
-  }
+  };
 }
 
-export async function getStaticPaths() {
-  const posts = getAllPosts(['slug'])
+export async function getStaticPaths({ locales }) {
+  const slugsWithLocales = locales.flatMap((locale: string) => {
+    const posts = getAllPosts(locale, ['slug'])
+    const slugsWithLocales = posts.map(({ slug }) => {
+      return {
+        slug: slug,
+	locale: locale
+      };
+    })
+    return slugsWithLocales;
+  })
 
-  return {
-    paths: posts.map(({ slug }) => {
+  const res = {
+    paths: slugsWithLocales.map(({ slug, locale }) => {
       return {
         params: {
-          slug,
-        },
-      }
+	  slug: slug
+	},
+	locale: locale
+      };
     }),
     fallback: false,
   }
+
+  return res;
 }
+

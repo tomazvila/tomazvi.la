@@ -3,9 +3,11 @@ import Link from 'next/link'
 import Container from '../../components/container'
 import distanceToNow from '../../lib/dateRelative'
 import { getAllPosts } from '../../lib/getPost'
+import { serverSideTranslations } from 'next-i18next/serverSideTranslations'
 
 export default function NotePage({
   allPosts,
+  locale
 }: InferGetStaticPropsType<typeof getStaticProps>) {
   return (
     <Container>
@@ -13,8 +15,10 @@ export default function NotePage({
         allPosts.map((post) => (
           <article key={post.slug} className="mb-10">
             <Link
-              as={`/posts/${post.slug}`}
-              href="/posts/[slug]"
+              href={{
+	        pathname: '[locale]/posts/[slug]',
+		query: { locale: locale, slug: post.slug },
+	      }}
               className="text-lg leading-6 font-bold"
             >
               {post.title}
@@ -32,10 +36,16 @@ export default function NotePage({
   )
 }
 
-export async function getStaticProps() {
-  const allPosts = getAllPosts(['slug', 'title', 'excerpt', 'date'])
+export async function getStaticProps({ locale }) {
+  const allPosts = getAllPosts(locale, ['slug', 'title', 'excerpt', 'date']);
+
+  const translationProps = await serverSideTranslations(locale);
 
   return {
-    props: { allPosts },
-  }
+    props: {
+      allPosts,
+      locale,
+      ...translationProps // Merge translation props into the props object
+    }
+  };
 }

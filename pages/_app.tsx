@@ -4,8 +4,11 @@ import type { AppProps } from 'next/app'
 import Head from 'next/head'
 import Header from '../components/header'
 import { Auth0Provider } from '@auth0/auth0-react'
+import { appWithTranslation } from 'next-i18next'
+import { useRouter } from 'next/router';
 
-export default function MyApp({ Component, pageProps }: AppProps) {
+function App({ Component, pageProps }: AppProps) {
+
   return (
     <Auth0Provider
       clientId={process.env.NEXT_PUBLIC_AUTH0_CLIENT_ID}
@@ -20,7 +23,7 @@ export default function MyApp({ Component, pageProps }: AppProps) {
         <title>My awesome blog</title>
       </Head>
 
-      <Header />
+      <Header/>
 
       <main className="py-14">
         <Component {...pageProps} />
@@ -28,3 +31,5 @@ export default function MyApp({ Component, pageProps }: AppProps) {
     </Auth0Provider>
   )
 }
+
+export default appWithTranslation(App)

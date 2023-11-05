@@ -1,22 +1,23 @@
 import Container from '../components/container'
 import Image from 'next/image'
+import { useTranslation } from 'next-i18next'
+import { serverSideTranslations } from 'next-i18next/serverSideTranslations'
 
 function HomePage() {
+  const { t } = useTranslation()
+  const sveiki = t("sveiki")
+  const apieSave = t("apie-save")
+
   return (
     <>
       <Container>
         <div className="space-y-6">
           <h1 className="text-2xl font-bold">
-            Hey, I'm a Senior Software Engineer at Company. I enjoy working with
-            Next.js and crafting beautiful front-end experiences.
+	    { sveiki }
           </h1>
           <p>
-            This portfolio is built with Next.js and a library called next-mdx.
-            It allows you to write Markdown and focus on the content of your
-            portfolio.
+	    { apieSave }
           </p>
-
-          <p>Deploy your own in a few minutes.</p>
         </div>
       </Container>
 
@@ -30,6 +31,18 @@ function HomePage() {
       </div>
     </>
   )
+}
+
+export async function getStaticProps(context) {
+  // extract the locale identifier from the URL
+  const { locale } = context
+
+  return {
+    props: {
+      // pass the translation props to the page component
+      ...(await serverSideTranslations(locale)),
+    },
+  }
 }
 
 export default HomePage
