@@ -23,7 +23,7 @@ export default function PostPage({
   return (
     <Container>
       <Head>
-        <title>{post.title} | My awesome blog</title>
+        <title>{post.title} | Tomas Mažvila blog</title>
       </Head>
 
       {router.isFallback ? (
