@@ -20,7 +20,7 @@ function App({ Component, pageProps }: AppProps) {
           name="description"
           content="Clone and deploy your own Next.js portfolio in minutes."
         />
-        <title>My awesome blog</title>
+        <title>Tomas Mažvila blog</title>
       </Head>
 
       <Header/>
