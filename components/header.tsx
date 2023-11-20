@@ -14,6 +14,8 @@ export default function Header() {
           <div className="flex space-x-4">
             <Link href="/">{t("apie")}</Link>
             <Link href="/posts">{t("irasai")}</Link>
+            <Link href="/shits">{t("tryda")}</Link>
+            <Link href="/changelog">{t("changelog")}</Link>
           </div>
           <div className="flex items-center"> {/* Encapsulate LocaleDropdown within a div for styling */}
             <LocaleDropdown translation={translation} />
