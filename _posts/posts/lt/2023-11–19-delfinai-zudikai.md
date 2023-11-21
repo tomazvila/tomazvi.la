@@ -93,7 +93,7 @@ Delfinai geba labai gyliai panerti ir turi išskirtines echolokacines savybes. B
 ![](/assets/blog/killer-dolphins/usanavy.png)
 Amerikiečių karinio jūrų laivyno delfinas
 
-Manau gana tikėtina, kad Rusai naudoja anksčiau minėtus 2016m. iš Maskvos delfinariumo priktus delfinus saugoti karinės svarbos objektams Kryme. \[16\] Delfinai tam puikiai tinka, nes jie nepraranda sąmonės, net kai miega. \[17\]
+Manau gana tikėtina, kad Rusai naudoja anksčiau minėtus 2016m. iš Maskvos delfinariumo pirktus delfinus saugoti karinės svarbos objektams Kryme. \[16\] Delfinai tam puikiai tinka, nes jie nepraranda sąmonės, net kai miega. \[17\]
 ![](/assets/blog/killer-dolphins/russian_dolphin1.jpg)
 ![](/assets/blog/killer-dolphins/russian_dolphin2.jpg)
 
@@ -105,7 +105,7 @@ Be 70 delfinų USA dar turi beveik 30 jūrų liūtų. Jūrų liūtai turi neprie
 ![](/assets/blog/killer-dolphins/navy_seal2.jpeg.webp)
 
 ## Ar gali delfinai žudyti?
-Amerikiečiai teigia, kad delfinai negali žudyti, nes jie vandenyje negali atskirti priešo nuo savo. Bet aš asmeniškai tuo netikiu. Sovietai gyrėsi, kad jų treniruoti delfinai galėjo atskirti savą pavandeninį laivą nuo priešo vien iš propelerio sukimosi vibracijų. Hamas gyrėsi, kad sučiupo jų karį nužudžiusį delfiną. Iranas grasino, kad Persų įlankoje užsiundys mirtininkus delfinus kamikadzes. Be to delfinai panaudoti ne viename kare. Taigi nenustebčiau kad delfinai yra nudobę ne vieną narą.
+Amerikiečiai teigia, kad delfinai negali žudyti, nes jie vandenyje negali atskirti priešo nuo savo. Bet aš asmeniškai tuo netikiu. Sovietai gyrėsi, kad jų treniruoti delfinai galėjo atskirti savą povandeninį laivą nuo priešo vien iš propelerio sukimosi vibracijų. Hamas gyrėsi, kad sučiupo jų karį nužudžiusį delfiną. Iranas grasino, kad Persų įlankoje užsiundys mirtininkus delfinus kamikadzes. Be to delfinai panaudoti ne viename kare. Taigi nenustebčiau kad delfinai yra nudobę ne vieną narą.
 
 # Šaltiniai
 Daugiau skaitalo:
