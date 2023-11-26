@@ -20,6 +20,7 @@ function HomePage() {
 	    <li>2023-11-19 blog post about war dolphins</li>
 	    <li>2023-11-20 blog post about cult of done</li>
 	    <li>2023-11-20 diarrhea and changelog section</li>
+      <li>2023-11-26 blog post about gypsies</li>
           </ul>
         </div>
       </Container>
