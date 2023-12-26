@@ -21,6 +21,8 @@ function HomePage() {
 	    <li>2023-11-20 blog post about cult of done</li>
 	    <li>2023-11-20 diarrhea and changelog section</li>
       <li>2023-11-26 blog post about gypsies</li>
+      <li>removed blog post about gypsies</li>
+      <li>2023-12-26 blog post about free speech boundaries</li>
           </ul>
         </div>
       </Container>
