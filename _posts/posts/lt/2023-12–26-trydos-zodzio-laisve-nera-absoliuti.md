@@ -8,7 +8,7 @@ author:
 ogImage:
   url: '/assets/blog/gypsies/snatch.png'
 ---
-Dieną po to, kai pasidalinau savo įrašu apie romus gavau skambutį iš savo didžiausių fanų: tėčio ir mamos. Mama bandė gražiuoju paaiškinti, kad aš turėčiau išiimti įrašą. Tėtis sakė jei neįšimsiu aš, tai jis pats paskųs mane už nesantaikos kurstymą. Daug negalvojęs iškart išėmiau įrašą ir tada ėmiau daug* galvoti kodėl aš išėmiau įrašą. Kritika dėl prasto stiliaus ir keiksmažodžių pelnyta, o įžeidų žodį ,,Čigonas"\*\* galima pakeisti į ,,Romas". Bet to negana. Pagal mano mamą, mane ir be to būtų galima paduoti į teismą už nesantaikos kurstymą. Tuo metu aš buvau labai sutrikęs. Juk aš nerašiau netiesos. Aš matau problemą ir praleidau popietę galvodamas, ką dėl to būtų galima padaryti. Viskas tekste yra atpasakota būtent taip kaip buvo. Jei krypuoja kaip antis, atrodo kaip antis, negi aš negaliu parašyt, kad ten galbūt ir yra antis? Ir kad *galbūt* ta antis gali *kreksėti*, nes aš mačiau, kaip iki šiol kitos antys kreksėdavo? Taigi yra įstatymas sako man mama. Koks įstatymas, kur tas įstatymas? Nežinau, pats **pasieiškok**, va ***Mažai***lienė\*\*\* jau turėjo problemų...
+Dieną po to, kai pasidalinau savo įrašu apie romus gavau skambutį iš savo didžiausių fanų: tėčio ir mamos. Mama bandė gražiuoju paaiškinti, kad aš turėčiau išiimti įrašą. Tėtis sakė jei neįšimsiu aš, tai jis pats paskųs mane už nesantaikos kurstymą. Daug negalvojęs iškart išėmiau įrašą ir tada ėmiau daug* galvoti kodėl aš išėmiau įrašą. Kritika dėl prasto stiliaus ir keiksmažodžių pelnyta, o įžeidų žodį „Čigonas“\*\* galima pakeisti į „Romas“. Bet to negana. Pagal mano mamą, mane ir be to būtų galima paduoti į teismą už nesantaikos kurstymą. Tuo metu aš buvau labai sutrikęs. Juk aš nerašiau netiesos. Aš matau problemą ir praleidau popietę galvodamas, ką dėl to būtų galima padaryti. Viskas tekste yra atpasakota būtent taip kaip buvo. Jei krypuoja kaip antis, atrodo kaip antis, negi aš negaliu parašyt, kad ten galbūt ir yra antis? Ir kad *galbūt* ta antis gali *kreksėti*, nes aš mačiau, kaip iki šiol kitos antys kreksėdavo? Taigi yra įstatymas sako man mama. Koks įstatymas, kur tas įstatymas? Nežinau, pats **pasieiškok**, va ***Mažai***lienė\*\*\* jau turėjo problemų...
 
 Ėmiau ir **pasieiškojau**. Visų pirma, ką sako mūsų konstitucija?
 
@@ -79,20 +79,26 @@ Parodyt, kad nusišneku ir įstatymą patys paskaityt galite  👉 [čia](https:
 > ...
 > 72. **Žurnalistas –** fizinis asmuo, kuris profesionaliai renka, rengia ir teikia medžiagą viešosios informacijos rengėjui pagal sutartį su juo ir (ar) yra žurnalistų profesinės organizacijos narys.
 
-\13. Ar tyčia skleidžiau informaciją? Tikrai taip. Ar informacija melaginga? Ne!
+13.  Ar tyčia skleidžiau informaciją? Tikrai taip. Ar informacija melaginga? Ne!
+
 16-18 ir 21. Ar aš esu **Informacinės visuomenės informavimo priemonės valdytojas**? Informaciją skleidžiu viešai elektroninėmis priemonėmis, tačiau ne už atlyginimą. Nesu žurnalistas. Mano blogas, ne radijas, ne televizija ir ne laikraštis. Bet tarkim papuolu po šituo straipsniu.
-\32. Skamba teisingai. `Ctrl + f => "nepriklausomas kūrėjas" => "One match found"`. Kodėl šita sąvoka išvis įstatyme paminėta, jei niekur nenaudojama?
-\33. ,,Nuomonė gali remtis faktais, pagrįstais argumentais ir paprastai ji yra subjektyvi, todėl jai netaikomi tiesos ir tikslumo kriterijai, tačiau **ji turi būti reiškiama sąžiningai ir etiškai, sąmoningai nenuslepiant ir neiškreipiant faktų ir duomenų**". Čia įdomiau. Kas yra etiška? Ar ką aš parašiau yra etiška? Gal reikėjo labiau pabrėžti - ***mano nuomone***...
-\39-40. Konkrečiai nei vieno asmens neįvardijau.
+
+32. Skamba teisingai. `Ctrl + f => "nepriklausomas kūrėjas" => "One match found"`. Kodėl šita sąvoka išvis įstatyme paminėta, jei niekur nenaudojama?
+
+33. „Nuomonė gali remtis faktais, pagrįstais argumentais ir paprastai ji yra subjektyvi, todėl jai netaikomi tiesos ir tikslumo kriterijai, tačiau **ji turi būti reiškiama sąžiningai ir etiškai, sąmoningai nenuslepiant ir neiškreipiant faktų ir duomenų**“. Čia įdomiau. Kas yra etiška? Ar ką aš parašiau yra etiška? Gal reikėjo labiau pabrėžti - ***mano nuomone***...
+
+39-40. Konkrečiai nei vieno asmens neįvardijau.
+
 61-63, 66-67. Vėlgi, nėra paminėti blogeriai.
-\72. Aš už blogą moku daugiau, nei man kas moką už jį. Iš tikro man niekas nieko nemoka. Tikrai nesu žurnalistas.
+
+72. Aš už blogą moku daugiau, nei man kas moką už jį. Iš tikro man niekas nieko nemoka. Tikrai nesu žurnalistas.
 
 ## **3** **straipsnis.** **Pagrindiniai visuomenės informavimo principai**
 > ...
 > 2. Viešosios informacijos rengėjai, skleidėjai, žurnalistai ir leidėjai savo veikloje vadovaujasi Konstitucija ir įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis, **humanizmo, lygybės, pakantos, pagarbos žmogui principais**, gerbia žodžio, kūrybos, religijos ir sąžinės laisvę, nuomonių įvairovę, laikosi profesinės etikos normų, Lietuvos žurnalistų ir leidėjų etikos kodekso nuostatų, padeda plėtoti demokratiją, visuomenės atvirumą, skatina visuomenės pilietiškumą ir valstybės pažangą, stiprina valstybės nepriklausomybę, ugdo valstybinę kalbą, tautinę kultūrą ir dorovę.
 > ...
 
-\2. Piktas Mažvila, galėtų drasiai sakyti, kad mano tekste per mažai humanizmo, lygybės, pakantos ir pagarbos žmogui. Bet jei savivaldybė nieko nedaro ir aš kviečiu problemą bandyt spręsti patiems, gal aš ne neapykantą kurstau, bet skatinu visuomenės pilietiškumą?
+2. Piktas Mažvila, galėtų drasiai sakyti, kad mano tekste per mažai humanizmo, lygybės, pakantos ir pagarbos žmogui. Bet jei savivaldybė nieko nedaro ir aš kviečiu problemą bandyt spręsti patiems, gal aš ne neapykantą kurstau, bet skatinu visuomenės pilietiškumą?
 
 ## **16** **straipsnis.** **Nuomonių įvairovės visuomenės informavimo priemonėse užtikrinimas**
 > 1. Gerbdami nuomonių įvairovę, viešosios informacijos rengėjai ir skleidėjai turi visuomenės informavimo priemonėse pateikti kuo daugiau viena nuo kitos nepriklausomų nuomonių.
@@ -146,7 +152,7 @@ Mielas skaitytojau, puiki proga parašyt savo nomonę ir komentarą!
 	6) Man kaip wanabe atletui netinka.
 	7) Nei žodžio.
 	8) Apie tai nekalbu.
-	9) ,,... gali teikti patarimus dėl ateities, sveikatos, pinigų ir panašiai". Jei atrodo kaip antis...
+	9) „... gali teikti patarimus dėl ateities, sveikatos, pinigų ir panašiai“. Jei atrodo kaip antis...
 
 ...
 
@@ -166,7 +172,7 @@ Kurstymas prieš bet kokios tautos, rasės, etninę, religinę ar kitokią žmon
 ## Nutarimų pavyzdžiai
 > Panevėžio Apygardos Teismas 2009 m. birželio 29 d. [nutartimi](http://eteismai.lt/byla/223918549088785/1A-407-337-2009?word=neapykantos%20kurstymas) atmetė nuteistojo V.V skundą. V. V Apylinkės teismo nuteistas už tai, jog pro atidarytą automobilio langą, viešai pareikšdamas žodžiu, girdint aplinkiniams žmonėms, tyčiojosi iš M. M., apšaukdamas jį „_čiurka_“ ir tokiu būdu niekino jį kaip asmenį, priklausantį kitai – azerbaidžaniečių tautybei. Šioje byloje teismas pabrėžė, jog V.V. išsakyti žodžių reikšmė priklauso nuo aplinkybių konteksto, nuteistojo neapykantos nukentėjusiajam bei išsakytų žodžių pakartotinumo. Todėl nuteistojo pareiškimai („_tokius kaip jis, čiurkas, reikia ištremti iš Lietuvos_“; „_čiurka_“). Teismas atsižvelgė į tai, jog nuteistasis savo pareiškimais paniekino bei siekė pasityčioti iš nukentėjusiojo. Nuteistojo veiksmai buvo pripažinti kaip antivisuomeniniai bei išsakyti liejant pyktį prieš nukentėjusįjį. Teismas atsižvelgė į tai, jog nuteistojo išsakytas žodis buvo žargoninis, žodžio atliekamas funkcijas bei jo išsakyto žodžio kontekstą bei kartu pavartotus teiginius, taip pat siekį paniekinti nukentėjusįjį dėl pastarojo tautybės.
 
-Skundas atmestas!
+Skundas atmestas.
 
 > Kauno Apylinkės Teismas 2012 m. birželio 21 d. [nutartimi](http://eteismai.lt/byla/185144880581755/1-1101-530/2012?word=neapykantos%20kurstymas) pripažino kaltu J.G., kuris laikotarpiu nuo 2010-02-22 iki 2010-03-22 rašė įvairaus pobūdžio komentarus apie žydų tautybės asmenis, kuriuose pritariama žydų naikinimui, žydai siejami su šėtonu, šėtoniškais sutvėrimais bei teigiama, jog žydų tautos fizinis susidorojimas yra neišvengiamas. Kaltinamasis prisipažino, jog jis rašo panašaus pobūdžio komentarus bei teigė, jog savo komentarais reiškia savo vidinį įsitikinimą, naudojasi saviraiškos laisve. Komentarus apie žydus J. G rašė vadovaudamasis Biblijos studija, logika, stebėjimais. Teismas nurodė, jog vieši pareiškimai skiriami tam, kad adresatas – neapibrėžtas žmonių ratas, t.y. šuo atveju interneto vartotojai, būtų atitinkamai nuteikiami ir skatinami perimti tokį neigiamą nusistatymą. Byloje pabrėžta, nusikalstama veika yra pažeidžiamos ne konkretaus asmens teisės, o iš esmės pažeidžiamas tam tikrų asmenų grupių lygiateisiškumas, t.y. tam tikrai grupei priklausantys žmonės nelaikomi lygiateisiais visuomenės nariais, jie niekinami, žeminami, laikomi kitokiais. Byloje akcentuojama, jog kaltinamojo teiginiai yra pavartoti įžeidžiančia forma, turiniu, skleidžiami melagingi faktai.
 
@@ -176,7 +182,7 @@ Tikrai neskatinu smurto, naikint ir t.t.
 
 > 2011 m. birželio 3 d. Alytaus Rajono Teismas [nutartimi](http://eteismai.lt/byla/166923601987427/1-173-448/2011?word=BK%20170) pripažino E.M kaltu už internetiniame tinklapyje [www.lrytas.lt](http://www.lrytas.lt/) paviešintą komentarą „_<…> jokio gailescio išgamoms, dauzykit tiek kiek turit sveikatos ta meslo kruva <…>_“. Teismas pabrėžė, jog autorius naudoja ypatingai įžeidžiančią, nepagarbią leksiką, emociškai neigiamai nuspalvindamas frazes, propaguoja idėjas, kurstančias smurtauti, fiziškai susidoroti su žmonių grupe ar jai priklausančiu asmeniu dėl seksualinės orientacijos. Šioje byloje teismas esminę reikšmę suteikė pateiktoms frazėms, propaguojamoms idėjoms bei vartojamai leksikai.
 
-Nieko apie orientaciją ir lytį nerašiau, nors Čigonių moterų padėtis pavydėtina. Net per šventes, nepriklauso kartu sėdėti prie bendro stalo.
+Nieko apie orientaciją ir lytį nerašiau, nors Čigonių moterų padėtis pavydėtina. Net per šventes, joms nepriklauso kartu sėdėti prie bendro stalo su vyrais.
 
 > 2013 m. gegužės 21 d. nutartimi Vilniaus Apylinkės Teismas pripažino kaltu K.Š., kuris interneto svetainėje [www.lrytas.lt](http://www.lrytas.lt/) paskelbė komentarus, kuriais skatinama neapykanta lenkų tautybės asmenims: „_<…>_ _visą lenkų tautą būtina sunaikinti fiziškai_“, lenkų tautybės asmenis vadino „_šudlenkiai_“, „_tupa tauta_“, „_degeneratai_“. Teismas atsižvelgė į tai, jog komentarai yra kategoriški ir nedviprasmiški bei tai, jog smurtauti komentaruose yra skatinama tiesiogiai bei netiesiogiai.
 \[2\]
@@ -202,7 +208,7 @@ Iš visų mano pateiktų pavyzdžių Dailiui Dargiui tenka daugiausiai atsakomyb
 - neigiami atskirų individų bruožai ir ydos priskiriami visai tautinei, etninei, religinei ar kitai žmonių grupei ar rasei;
 - praeities, dabarties, ateities negandos ir negerovės aiškinamos tam tikrų etninių, rasinių, religinių ar kitų grupių egzistavimu ir kryptinga jų veikla;
 
-https://www.youtube.com/watch?v=-vJm88RHl-8
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=-vJm88RHl-8" frameborder="0" allowfullscreen></iframe>
 
 Štai keletą konkrečių citatų:
 > Aplinkui dėjosi labai daugybė tokių, siaubo filmų vertų siužėtų, žmonės mirdavo nuo narkotikų, daugybė įvairiausių nusikaltimų ir šiaip daug tokių purvinų tamsių dalykų...
@@ -227,6 +233,6 @@ Tačiau niekur nemačiau, kad Dargis kurstytų neapykantą.
 
 \*\* pavardė išgalvota, asmuo realus
 
-\*\*\* https://www.youtube.com/watch?v=uQlMdB_80W8
+\*\*\* [kodėl čigonai vartotinas žodis](https://www.youtube.com/watch?v=uQlMdB_80W8)
 
-> Kodėl vinur minimi kaip Romai, kitur kaip čigonai. Čia vėlgi, buvo atvejis teisme. Buvo teisiami čigonai ir pagal platinimą dideliu mastu, dideliais kiekiais. Ir apeliaciniam advokatai skundė, kad buvo žeminami teisiamieji juos pavadinant čigonais. Buvo gautas valstybinis lietuvių kalbos instituto išaiškinimas, kad žodis čigonas lietuvių kalbos žodyne vartojamas 400 metų. Ir dabartiniame žodyne yra apie 22 bendrašaknių žodžių, kurie neturi neigiamos prasmės. Todėl tikslinga vadinti čigonais.
+> Kodėl vienur minimi kaip Romai, kitur kaip čigonai. Čia vėlgi, buvo atvejis teisme. Buvo teisiami čigonai ir pagal platinimą dideliu mastu, dideliais kiekiais. Ir apeliaciniam advokatai skundė, kad buvo žeminami teisiamieji juos pavadinant čigonais. Buvo gautas valstybinis lietuvių kalbos instituto išaiškinimas, kad žodis čigonas lietuvių kalbos žodyne vartojamas 400 metų. Ir dabartiniame žodyne yra apie 22 bendrašaknių žodžių, kurie neturi neigiamos prasmės. Todėl tikslinga vadinti čigonais.
