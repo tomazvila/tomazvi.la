@@ -203,12 +203,10 @@ Taigi skandalingai išgarsėjusių Anykštėnų kūrinys **„Šėtone, prašau�
 Kiek žinau, nemalonumų Dulinskas nesusilaukė. Ar čia dėl to, kad čigonai turi savo teisingumo sistemą? Ar dėl to, kad čigonai patys policijai neskundžia? Ar dėl to, kad čia nėra nesantaikos kurstymo?
 
 ## Dailiaus Dargio tabaro lygintojai
-Iš visų mano pateiktų pavyzdžių Dailiui Dargiui tenka daugiausiai atsakomybės. Knygų autorius. Dar nuo 1995m. dirba žurnalistu.  Tačiau pagal žmogaus teisių stebėjimo instituto apibrėžimą jo video:
+Iš visų mano pateiktų pavyzdžių Dailiui Dargiui tenka daugiausiai atsakomybės. Knygų autorius. Dar nuo 1995m. dirba žurnalistu.  Tačiau pagal žmogaus teisių stebėjimo instituto apibrėžimą jo [video](https://www.youtube.com/watch?v=-vJm88RHl-8):
 - formuojamas negatyvus etninis, rasinis, tautinis, religinis ar kitoks stereotipas, neigiamas tam tikros tautos, etninės grupės, rasės, religijos įvaizdis;
 - neigiami atskirų individų bruožai ir ydos priskiriami visai tautinei, etninei, religinei ar kitai žmonių grupei ar rasei;
 - praeities, dabarties, ateities negandos ir negerovės aiškinamos tam tikrų etninių, rasinių, religinių ar kitų grupių egzistavimu ir kryptinga jų veikla;
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=-vJm88RHl-8" frameborder="0" allowfullscreen></iframe>
 
 Štai keletą konkrečių citatų:
 > Aplinkui dėjosi labai daugybė tokių, siaubo filmų vertų siužėtų, žmonės mirdavo nuo narkotikų, daugybė įvairiausių nusikaltimų ir šiaip daug tokių purvinų tamsių dalykų...
