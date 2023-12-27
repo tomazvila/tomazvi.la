@@ -55,47 +55,47 @@ Mano pagrindinė mintis - ***Romus reikia labiau įtraukti į visuomenę, priimt
 Parodyt, kad nusišneku ir įstatymą patys paskaityt galite  👉 [čia](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.280580). Na o dabar prie analizės. Pagal žmogaus teisių stebėjimo instituto informacinį vadovą, man susidaro įspūdis, kad visai tikėtina, kad aš skatinau neapykantą, bet ar pažeidžiau kokį įstatymą?
 
 ## **2** **straipsnis.** **Pagrindinės įstatymo sąvokos**
-> ...
-> 13. **Dezinformacija –** tyčia viešai paskleista melaginga informacija.
-> ...
-> 16. **Informacinės visuomenės informavimo priemonės –** visuomenės informavimo priemonės, kuriomis skleidžiant viešąją informaciją teikiamos informacinės visuomenės paslaugos.
-> 17. **Informacinės visuomenės informavimo priemonės valdytojas –** asmuo, faktiškai valdantis informacinės visuomenės informavimo priemonę, kurioje rengiama ir (ar) skleidžiama viešoji informacija, arba rengiantis ir (ar) skleidžiantis tokios priemonės turinį.
-> 18. **Informacinės visuomenės paslauga –** paprastai už atlyginimą elektroninėmis priemonėmis ir per atstumą individualiu informacinės visuomenės paslaugos gavėjo prašymu teikiama paslauga.
-> ...
-> 21. **Informacinės visuomenės paslaugos teikėjas** (toliau – **paslaugos teikėjas) –** informacinės visuomenės paslaugą teikiantis asmuo, įskaitant užsienio juridinio asmens filialą ar atstovybę.
-> ...
-> 32. **Nepriklausomas kūrėjas –** asmuo, kuris nėra transliuotojo dalyvis, transliuotojo valdymo organų narys, taip pat asmuo, nesusijęs su transliuotoju darbo, tarnybos santykiais ar jungtine veikla, kuriantis garso, audiovizualinius kūrinius ir laisvai juos parduodantis ar kitaip perleidžiantis.
-> 33. **Nuomonė –** visuomenės informavimo priemonėse skelbiamas požiūris, nusimanymas, nuovoka, supratimas, mintys arba komentarai apie bendro pobūdžio idėjas, faktų ir duomenų, reiškinių ar įvykių vertinimai, išvados ar pastabos apie žinias, susijusias su tikrais įvykiais. Nuomonė gali remtis faktais, pagrįstais argumentais ir paprastai ji yra subjektyvi, todėl jai netaikomi tiesos ir tikslumo kriterijai, tačiau ji turi būti reiškiama sąžiningai ir etiškai, sąmoningai nenuslepiant ir neiškreipiant faktų ir duomenų.
-> ...
-> 39. **Privataus pobūdžio informacija –** žmogaus teisės į privataus gyvenimo apsaugą užtikrinimo požiūriu neskelbtina informacija apie žmogaus asmeninį ir jo šeimos gyvenimą, jo sveikatą ir kt.
-> 40. **Privatus gyvenimas –** asmeninis žmogaus, jo šeimos gyvenimas, gyvenamoji aplinka, kurią sudaro asmens gyvenamoji patalpa, jai priklausanti privati teritorija ir kitos privačios patalpos, kurias asmuo naudoja savo ūkinei, komercinei ar profesinei veiklai, taip pat asmens psichinė ir fizinė neliečiamybė, garbė ir reputacija, slapti asmeniniai faktai, asmens fotonuotraukos ar kiti atvaizdai, asmens sveikatos informacija, privatus susirašinėjimas ar kitoks susižinojimas, asmens pažiūros, įsitikinimai, įpročiai ir kiti duomenys, kuriuos galima naudoti tik jam sutikus.
-> ...
-> 61. **Viešoji informacija –** informacija, skirta viešai skleisti, išskyrus šio straipsnio 39 dalyje nurodytą informaciją, taip pat informaciją, kuri pagal Lietuvos Respublikos įstatymus negali būti viešai skleidžiama.
-> 62. **Viešosios informacijos rengėjas –** transliuotojas, leidykla, kino, garso ar vaizdo studija, informacijos, reklamos agentūra, redakcija, informacinės visuomenės informavimo priemonės valdytojas ar kitas asmuo, rengiantis ar pateikiantis skleisti viešąją informaciją.
-> 63. **Viešosios informacijos skleidėjas –** transliuotojas, retransliuotojas, informacinės visuomenės informavimo priemonės valdytojas ar kitas asmuo, parduodantis ar kitais būdais skleidžiantis viešąją informaciją visuomenei ir atsakantis už tos informacijos teisėtumą.
-> ...
-> 66. **Visuomenės informavimas –** viešosios informacijos teikimas visuomenei.
-> 67. **Visuomenės informavimo priemonė –** laikraštis, žurnalas, biuletenis ar kitas leidinys, knyga, televizijos, radijo programa, kino ar kita garso ir vaizdo studijų produkcija, informacinės visuomenės informavimo priemonė ir kita priemonė, kuria viešai skleidžiama informacija. Pagal šį įstatymą visuomenės informavimo priemonei nepriskiriamas oficialus, techninis ir tarnybinis dokumentas, vertybiniai popieriai.
-> ...
-> 72. **Žurnalistas –** fizinis asmuo, kuris profesionaliai renka, rengia ir teikia medžiagą viešosios informacijos rengėjui pagal sutartį su juo ir (ar) yra žurnalistų profesinės organizacijos narys.
+> - ...
+> - 13. **Dezinformacija –** tyčia viešai paskleista melaginga informacija.
+> - ...
+> - 16. **Informacinės visuomenės informavimo priemonės –** visuomenės informavimo priemonės, kuriomis skleidžiant viešąją informaciją teikiamos informacinės visuomenės paslaugos.
+> - 17. **Informacinės visuomenės informavimo priemonės valdytojas –** asmuo, faktiškai valdantis informacinės visuomenės informavimo priemonę, kurioje rengiama ir (ar) skleidžiama viešoji informacija, arba rengiantis ir (ar) skleidžiantis tokios priemonės turinį.
+> - 18. **Informacinės visuomenės paslauga –** paprastai už atlyginimą elektroninėmis priemonėmis ir per atstumą individualiu informacinės visuomenės paslaugos gavėjo prašymu teikiama paslauga.
+> - ...
+> - 21. **Informacinės visuomenės paslaugos teikėjas** (toliau – **paslaugos teikėjas) –** informacinės visuomenės paslaugą teikiantis asmuo, įskaitant užsienio juridinio asmens filialą ar atstovybę.
+> - ...
+> - 32. **Nepriklausomas kūrėjas –** asmuo, kuris nėra transliuotojo dalyvis, transliuotojo valdymo organų narys, taip pat asmuo, nesusijęs su transliuotoju darbo, tarnybos santykiais ar jungtine veikla, kuriantis garso, audiovizualinius kūrinius ir laisvai juos parduodantis ar kitaip perleidžiantis.
+> - 33. **Nuomonė –** visuomenės informavimo priemonėse skelbiamas požiūris, nusimanymas, nuovoka, supratimas, mintys arba komentarai apie bendro pobūdžio idėjas, faktų ir duomenų, reiškinių ar įvykių vertinimai, išvados ar pastabos apie žinias, susijusias su tikrais įvykiais. Nuomonė gali remtis faktais, pagrįstais argumentais ir paprastai ji yra subjektyvi, todėl jai netaikomi tiesos ir tikslumo kriterijai, tačiau ji turi būti reiškiama sąžiningai ir etiškai, sąmoningai nenuslepiant ir neiškreipiant faktų ir duomenų.
+> - ...
+> - 39. **Privataus pobūdžio informacija –** žmogaus teisės į privataus gyvenimo apsaugą užtikrinimo požiūriu neskelbtina informacija apie žmogaus asmeninį ir jo šeimos gyvenimą, jo sveikatą ir kt.
+> - 40. **Privatus gyvenimas –** asmeninis žmogaus, jo šeimos gyvenimas, gyvenamoji aplinka, kurią sudaro asmens gyvenamoji patalpa, jai priklausanti privati teritorija ir kitos privačios patalpos, kurias asmuo naudoja savo ūkinei, komercinei ar profesinei veiklai, taip pat asmens psichinė ir fizinė neliečiamybė, garbė ir reputacija, slapti asmeniniai faktai, asmens fotonuotraukos ar kiti atvaizdai, asmens sveikatos informacija, privatus susirašinėjimas ar kitoks susižinojimas, asmens pažiūros, įsitikinimai, įpročiai ir kiti duomenys, kuriuos galima naudoti tik jam sutikus.
+> - ...
+> - 61. **Viešoji informacija –** informacija, skirta viešai skleisti, išskyrus šio straipsnio 39 dalyje nurodytą informaciją, taip pat informaciją, kuri pagal Lietuvos Respublikos įstatymus negali būti viešai skleidžiama.
+> - 62. **Viešosios informacijos rengėjas –** transliuotojas, leidykla, kino, garso ar vaizdo studija, informacijos, reklamos agentūra, redakcija, informacinės visuomenės informavimo priemonės valdytojas ar kitas asmuo, rengiantis ar pateikiantis skleisti viešąją informaciją.
+> - 63. **Viešosios informacijos skleidėjas –** transliuotojas, retransliuotojas, informacinės visuomenės informavimo priemonės valdytojas ar kitas asmuo, parduodantis ar kitais būdais skleidžiantis viešąją informaciją visuomenei ir atsakantis už tos informacijos teisėtumą.
+> - ...
+> - 66. **Visuomenės informavimas –** viešosios informacijos teikimas visuomenei.
+> - 67. **Visuomenės informavimo priemonė –** laikraštis, žurnalas, biuletenis ar kitas leidinys, knyga, televizijos, radijo programa, kino ar kita garso ir vaizdo studijų produkcija, informacinės visuomenės informavimo priemonė ir kita priemonė, kuria viešai skleidžiama informacija. Pagal šį įstatymą visuomenės informavimo priemonei nepriskiriamas oficialus, techninis ir tarnybinis dokumentas, vertybiniai popieriai.
+> - ...
+> - 72. **Žurnalistas –** fizinis asmuo, kuris profesionaliai renka, rengia ir teikia medžiagą viešosios informacijos rengėjui pagal sutartį su juo ir (ar) yra žurnalistų profesinės organizacijos narys.
 
-13.  Ar tyčia skleidžiau informaciją? Tikrai taip. Ar informacija melaginga? Ne!
+- 13.  Ar tyčia skleidžiau informaciją? Tikrai taip. Ar informacija melaginga? Ne!
 
-16-18 ir 21. Ar aš esu **Informacinės visuomenės informavimo priemonės valdytojas**? Informaciją skleidžiu viešai elektroninėmis priemonėmis, tačiau ne už atlyginimą. Nesu žurnalistas. Mano blogas, ne radijas, ne televizija ir ne laikraštis. Bet tarkim papuolu po šituo straipsniu.
+- 16-18 ir 21. Ar aš esu **Informacinės visuomenės informavimo priemonės valdytojas**? Informaciją skleidžiu viešai elektroninėmis priemonėmis, tačiau ne už atlyginimą. Nesu žurnalistas. Mano blogas, ne radijas, ne televizija ir ne laikraštis. Bet tarkim papuolu po šituo straipsniu.
 
-32. Skamba teisingai. `Ctrl + f => "nepriklausomas kūrėjas" => "One match found"`. Kodėl šita sąvoka išvis įstatyme paminėta, jei niekur nenaudojama?
+- 32. Skamba teisingai. `Ctrl + f => "nepriklausomas kūrėjas" => "One match found"`. Kodėl šita sąvoka išvis įstatyme paminėta, jei niekur nenaudojama?
 
-33. „Nuomonė gali remtis faktais, pagrįstais argumentais ir paprastai ji yra subjektyvi, todėl jai netaikomi tiesos ir tikslumo kriterijai, tačiau **ji turi būti reiškiama sąžiningai ir etiškai, sąmoningai nenuslepiant ir neiškreipiant faktų ir duomenų**“. Čia įdomiau. Kas yra etiška? Ar ką aš parašiau yra etiška? Gal reikėjo labiau pabrėžti - ***mano nuomone***...
+- 33. „Nuomonė gali remtis faktais, pagrįstais argumentais ir paprastai ji yra subjektyvi, todėl jai netaikomi tiesos ir tikslumo kriterijai, tačiau **ji turi būti reiškiama sąžiningai ir etiškai, sąmoningai nenuslepiant ir neiškreipiant faktų ir duomenų**“. Čia įdomiau. Kas yra etiška? Ar ką aš parašiau yra etiška? Gal reikėjo labiau pabrėžti - ***mano nuomone***...
 
-39-40. Konkrečiai nei vieno asmens neįvardijau.
+- 39-40. Konkrečiai nei vieno asmens neįvardijau.
 
-61-63, 66-67. Vėlgi, nėra paminėti blogeriai.
+- 61-63, 66-67. Vėlgi, nėra paminėti blogeriai.
 
-72. Aš už blogą moku daugiau, nei man kas moką už jį. Iš tikro man niekas nieko nemoka. Tikrai nesu žurnalistas.
+- 72. Aš už blogą moku daugiau, nei man kas moką už jį. Iš tikro man niekas nieko nemoka. Tikrai nesu žurnalistas.
 
 ## **3** **straipsnis.** **Pagrindiniai visuomenės informavimo principai**
-> ...
-> 2. Viešosios informacijos rengėjai, skleidėjai, žurnalistai ir leidėjai savo veikloje vadovaujasi Konstitucija ir įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis, **humanizmo, lygybės, pakantos, pagarbos žmogui principais**, gerbia žodžio, kūrybos, religijos ir sąžinės laisvę, nuomonių įvairovę, laikosi profesinės etikos normų, Lietuvos žurnalistų ir leidėjų etikos kodekso nuostatų, padeda plėtoti demokratiją, visuomenės atvirumą, skatina visuomenės pilietiškumą ir valstybės pažangą, stiprina valstybės nepriklausomybę, ugdo valstybinę kalbą, tautinę kultūrą ir dorovę.
+> - ...
+> - 2. Viešosios informacijos rengėjai, skleidėjai, žurnalistai ir leidėjai savo veikloje vadovaujasi Konstitucija ir įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis, **humanizmo, lygybės, pakantos, pagarbos žmogui principais**, gerbia žodžio, kūrybos, religijos ir sąžinės laisvę, nuomonių įvairovę, laikosi profesinės etikos normų, Lietuvos žurnalistų ir leidėjų etikos kodekso nuostatų, padeda plėtoti demokratiją, visuomenės atvirumą, skatina visuomenės pilietiškumą ir valstybės pažangą, stiprina valstybės nepriklausomybę, ugdo valstybinę kalbą, tautinę kultūrą ir dorovę.
 > ...
 
 2. Piktas Mažvila, galėtų drasiai sakyti, kad mano tekste per mažai humanizmo, lygybės, pakantos ir pagarbos žmogui. Bet jei savivaldybė nieko nedaro ir aš kviečiu problemą bandyt spręsti patiems, gal aš ne neapykantą kurstau, bet skatinu visuomenės pilietiškumą?
@@ -128,10 +128,10 @@ Mielas skaitytojau, puiki proga parašyt savo nomonę ir komentarą!
 **PIRMASIS** **SKIRSNIS** **VIEŠOSIOS INFORMACIJOS RENGĖJŲ, SKLEIDĖJŲ, ŽURNALISTŲ STATUSO REGLAMENTAVIMAS**
 
 ### **22** **straipsnis.** **Viešosios informacijos rengėjai, skleidėjai ir jų dalyviai**:
-> 1. Viešosios informacijos rengėjų, skleidėjų ir jų dalyvių santykius reglamentuoja šis ir kiti įstatymai, teisės aktai ir šalių susitarimai.
-> ...
-> 7. Kiekvienas viešosios informacijos rengėjas ar jo dalyvis turi paskirti asmenį (vyriausiąjį redaktorių, redaktorių, laidos vedėją), kuris atsako už visuomenės informavimo priemonės turinį. Kai viešosios informacijos rengėjas ir dalyvis yra tas pats fizinis asmuo, jis atsako už savo viešosios informavimo priemonės turinį.
-> 8. Viešosios informacijos rengėjai:
+> - 1. Viešosios informacijos rengėjų, skleidėjų ir jų dalyvių santykius reglamentuoja šis ir kiti įstatymai, teisės aktai ir šalių susitarimai.
+> - ...
+> - 7. Kiekvienas viešosios informacijos rengėjas ar jo dalyvis turi paskirti asmenį (vyriausiąjį redaktorių, redaktorių, laidos vedėją), kuris atsako už visuomenės informavimo priemonės turinį. Kai viešosios informacijos rengėjas ir dalyvis yra tas pats fizinis asmuo, jis atsako už savo viešosios informavimo priemonės turinį.
+> - 8. Viešosios informacijos rengėjai:
 >   1) skleisdami informaciją visuomenei, neturi iškraipyti teisingos, nešališkos informacijos bei nuomonių ir panaudoti tai savanaudiškiems tikslams. Viešoji informacija yra nesuderinama su žurnalistinėmis kampanijomis, rengiamomis pagal išankstinius nusistatymus ar tenkinant grupinius, politinius interesus;
 >   2) privalo būti objektyvūs ir nešališki, pateikti kuo daugiau nuomonių ginčytinais politikos, ekonomikos ir kitais visuomenės gyvenimo klausimais;
 >   3) fiksuodami įvairias viešas visuomenės akcijas – mitingus, eitynes, streikus, piketus ir pan. – neturi skatinti imtis neteisėtų ar desperatiškų veiksmų;
@@ -142,8 +142,8 @@ Mielas skaitytojau, puiki proga parašyt savo nomonę ir komentarą!
 >   8) turi aiškiai pristatyti religines organizacijas ir jų pažiūras, kad žmonės nebūtų klaidinami;
 >   9) neturi propaguoti žmonių ar jų grupių antgamtinių, nerealių savybių, paranormalių reiškinių, išskyrus atvejus, kai tokia informacija pateikiama pramogai arba kaip tyrimo objektas. Neturi sudaryti įspūdžio, kad astrologai, chiromantai, ekstrasensai, bioenergetikai gali teikti patarimus dėl ateities, sveikatos, pinigų ir panašiai.
 
-7. Taip. Aš pilnai atsakingas už savo tekstą.
-8. Kaip teksto autorius aš:
+- 7. Taip. Aš pilnai atsakingas už savo tekstą.
+- 8. Kaip teksto autorius aš:
 	1) Jokių politinių interesų neturiu.
 	2) Pateikiau citatų iš pačių Romų bendruomenės atstovų! 
 	3) Jokių mitingų, eitynių, streikų ir piketų nenorėčiau po savo langais matyti.
@@ -194,6 +194,8 @@ Manau atskiro paminėjimo vertas atvejis. Apie tai dar kitą kartą parašysiu �
 Taigi skandalingai išgarsėjusių Anykštėnų kūrinys **„Šėtone, prašau“** kursto nesantaiką!
 Šetone daužyk vaikų galvas į sieną ar kaip ten dainavo Vaidotas. Ir Abrazevičius pasisakė, Ir Šimašius, ir Mikutavičius, ir Katleris pasisakė. Ir Algis Ramanauskas-Greitai, kurio 90tųjų ir ankstyvųjų 2000-tųjų sketčai davatkom infarktą įvarytų. Nu ir ką. Nu ir nieko. Teismo nuosprendis - Vaidotas su Giedrium kalti nesantaikos kurstymu. Ne koks precendentas...
 
+Pataisymas. Vaidoto vis gi, galų gale nenuteisė ir išteisino. Ačiū bičiuliui Vyteniui už pastabą!
+
 ## Dulinskas prieš Čigonus
 [facebook nuoroda](https://www.facebook.com/mdulinskas/posts/pfbid02ssNPAudSuXsXn7tHxf74QiQmCTY2tjVxrf3u6UtNPNaUkrwGWxu1Q82gdzggwPD5l)
 > - Pas mus aubusuose nerūkoma, jobanas by\*\*\*ulpį, - sakau jam tiesiai į snukį ir jau galvoju, į kurį autobuso stiklą sumūryti jo durną galvą, kad žinotų ir ateičiai atsimintų.
@@ -218,13 +220,14 @@ Iš visų mano pateiktų pavyzdžių Dailiui Dargiui tenka daugiausiai atsakomyb
 > Taip pat jie užsiima, žmonių prekyba ... Čigonės užsiiminėja prostitucija ...
 > Ką pasako čigonas dalink į 4 dalis ir tai nebūtinai bus tiesa. Čigonas mėgsta meluot.
 
-Tačiau niekur nemačiau, kad Dargis kurstytų neapykantą.
+Tačiau niekur nemačiau, kad kas Dargį kaltintų neapykantos kurstymu.
 
 # Ar aš kurstau neapykantą?
 Įrašo nekelsiu iš naujo. Bet ne dėl to, jog galvoju, kad kursčiau neapykantą, o dėl to, kad mano manymu prastai parašiau. Pamoka ateičiai, kad ir trydos skiltis, jautresnėm temom reiktų rašyti atidžiau. Geri norai ir ketinimai dar nėra viskas, svarbu ir koks išpildymas.
 
 # Šaltiniai
 \[1\] https://manoteises.lt/straipsnis/neapykantos-kurstymas-lietuvos-teismu-praktikoje/
+
 \[2\] https://manoteises.lt/straipsnis/neapykantos-kurstymas-lietuvos-teismu-praktikoje/
 
 \* kaip man daug
