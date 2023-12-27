@@ -11,7 +11,7 @@ ogImage:
 
 # 4chan
 
-![](/assets/blog/naciai/4chan.jpg)
+![](/assets/blog/naciai/200.jpg)
 
 Vaikystėje daugiausiai laiko internete praleidau žaisdamas League of Legends ir naršydamas 4chan. 4chan yra anoniminis forumas, kuris suskirstytas į skirtingas temas. 4chan susikūrė kaip anime forumas /a/, tačiau laikui bėgant atsirado daugiau įvairių temu kaip /mu/ - apie muziką, /diy/ ir taip toliau. Daugiausiai laiko praleisdavau /g/ - technology, tačiau kartais užsukdavau ir į kitus polapius todėl, daugiau mažiau, žinau kokia publika čia renkasi ir todėl Arijau, jei skaitai šitą įrašą, prašau nesilankyk 4chane. Tai yra labai bloga vieta. Tau bus blogai.
 
