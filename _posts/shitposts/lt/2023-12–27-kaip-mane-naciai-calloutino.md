@@ -31,7 +31,7 @@ Pol liūdnai pagarsėjo 2015 metais, kuomet Donald Trump vykdė savo rinkimų ko
 
 ![](/assets/blog/naciai/skateboards.jpg)
 
-Buvo vasara. Eilinį kartą ėjau iš ąžuolyno. Per mano ausines n-tajį kartą blastino, vienas iš mano mėgstamiausių albumų, Batushka - Litourgiya. Užsukau į Šilą nusipirkti varškės, riešutų sviesto, pieno ir bananų. 4chan terminologija atrodžiau, kaip visiškas *normie*. Adidas superstars kedai, juodi sportiniai šortai, paprasta žalia maikė. Po kaire ranka riedlentė, o po dešine prekės, ant pečių paugliška, sportiška kuprinė. Eilinis pacanas laisvės alėjos šile... Išskyrus vieną detalę - kitaip nei didžioji dalis normalių žmonių su airpodais, aš muzikos klausiausi į ausis įsikišęs ausines su laidu sujungtu į bluetooth dac adapterį.
+Buvo vasara. Eilinį kartą ėjau iš ąžuolyno. Per mano ausines n-tajį kartą blastino, vienas iš mano mėgstamiausių albumų, Batushka - Litourgiya. Užsukau į Šilą nusipirkti varškės, riešutų sviesto, pieno ir bananų. 4chan terminologija atrodžiau, kaip visiškas *normie*. Dc kedai, juodi sportiniai šortai, paprasta žalia maikė. Po kaire ranka riedlentė, o po dešine prekės, ant pečių paugliška, sportiška kuprinė. Eilinis pacanas laisvės alėjos šile... Išskyrus vieną detalę - kitaip nei didžioji dalis normalių žmonių su airpodais, aš muzikos klausiausi į ausis įsikišęs ausines su laidu sujungtu į bluetooth dac adapterį.
 
 ![](/assets/blog/naciai/headphones.jpg)
 
