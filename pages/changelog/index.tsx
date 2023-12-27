@@ -23,6 +23,7 @@ function HomePage() {
       <li>2023-11-26 blog post about gypsies</li>
       <li>removed blog post about gypsies</li>
       <li>2023-12-26 blog post about free speech boundaries</li>
+      <li>2023-12-27 removed title photo for faster load speeds</li>
           </ul>
         </div>
       </Container>
