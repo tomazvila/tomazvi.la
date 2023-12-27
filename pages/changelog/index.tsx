@@ -14,7 +14,7 @@ function HomePage() {
           <h1 className="text-2xl font-bold">
 	    { changelog }
           </h1>
-          <ul>
+         <ul>
 	    <li>2023-10-09 first blog post on hakyll</li>
 	    <li>2023-11-05 next js blog with comments and translations</li>
 	    <li>2023-11-19 blog post about war dolphins</li>
@@ -24,7 +24,8 @@ function HomePage() {
       <li>removed blog post about gypsies</li>
       <li>2023-12-26 blog post about free speech boundaries</li>
       <li>2023-12-27 removed title photo for faster load speeds</li>
-          </ul>
+      <li>2023-12-28 diarrhea post about 4chan</li>
+         </ul>
         </div>
       </Container>
     </>
