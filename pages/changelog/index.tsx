@@ -21,10 +21,11 @@ function HomePage() {
 	    <li>2023-11-20 blog post about cult of done</li>
 	    <li>2023-11-20 diarrhea and changelog section</li>
       <li>2023-11-26 blog post about gypsies</li>
-      <li>removed blog post about gypsies</li>
+      <li>2023-11-27 removed blog post about gypsies</li>
       <li>2023-12-26 blog post about free speech boundaries</li>
       <li>2023-12-27 removed title photo for faster load speeds</li>
       <li>2023-12-28 diarrhea post about 4chan</li>
+      <li>2023-12-30 blog post about 2023 fails</li>
          </ul>
         </div>
       </Container>
