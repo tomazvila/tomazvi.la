@@ -159,4 +159,3 @@ Citations:
 [3] https://vercel.com/guides/how-to-setup-cron-jobs-on-vercel
 [4] https://vercel.com/docs/cron-jobs/manage-cron-jobs
 [5] https://blog.bitsrc.io/unleashing-the-power-of-automation-exploring-serverless-functions-and-cron-jobs-for-efficient-task-cffa07c11bd6
-[6] https://vercel.com/changelog/vercel-cron-jobs-are-now-generally-available
