@@ -6,21 +6,7 @@ The comment box requires Auth0 authentication for users to add new comments. A u
 
 Comments are stored in Serverless Redis ([Upstash](http://upstash.com/)).
 
-### Demo
-
-[https://blog-with-comment.vercel.app/](https://blog-with-comment.vercel.app/)
-
-## `1` Project set up
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app)
-with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the
-example:
-
-```bash
-npx create-next-app --example blog-with-comment blog-with-comment-app
-```
-
-## `2` Set up environment variables
+## `1` Set up environment variables
 
 Copy the `.env.local.example` file in this directory to `.env.local` (which will be ignored by Git):
 
@@ -28,7 +14,7 @@ Copy the `.env.local.example` file in this directory to `.env.local` (which will
 cp .env.local.example .env.local
 ```
 
-## `3` Configuring Upstash
+## `2` Configuring Upstash
 
 Go to the [Upstash Console](https://console.upstash.com/) and create a new database
 
@@ -36,7 +22,7 @@ Go to the [Upstash Console](https://console.upstash.com/) and create a new datab
 
 - `REDIS_URL`: Find the URL in the database details page in Upstash Console clicking on **Redis Connect** button.
 
-## `4` Configuring Auth0
+## `3` Configuring Auth0
 
 1. Go to the [Auth0 dashboard](https://manage.auth0.com/) and create a new application of type **Single Page Web
    Applications**.
