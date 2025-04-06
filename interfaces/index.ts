@@ -20,5 +20,6 @@ export type Post = {
   date?: Date
   content?: string
   excerpt?: string
+  tags?: []
   [key: string]: any
 }

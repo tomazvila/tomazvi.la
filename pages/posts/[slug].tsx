@@ -14,8 +14,6 @@ export default function PostPage({
 }: InferGetStaticPropsType<typeof getStaticProps>) {
   const router = useRouter()
 
-  console.log(`router.isFallback: ${router.isFallback}`)
-
   if (!router.isFallback && !post?.slug) {
     return <ErrorPage statusCode={404} />
   }

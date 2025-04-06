@@ -1,22 +1,22 @@
 import type { InferGetStaticPropsType } from 'next'
 import Link from 'next/link'
-import Container from '../../components/container'
-import distanceToNow from '../../lib/dateRelative'
-import { getAllShitPosts } from '../../lib/getPost'
+import Container from '../../../../components/container'
+import distanceToNow from '../../../../lib/dateRelative'
+import { getAllShitPosts } from '../../../../lib/getPost'
 import { serverSideTranslations } from 'next-i18next/serverSideTranslations'
 
 export default function NotePage({
-  allPosts,
+  filteredPosts,
   locale
 }: InferGetStaticPropsType<typeof getStaticProps>) {
   return (
     <Container>
-      {allPosts.length ? (
-        allPosts.map((post) => (
+      {filteredPosts.length ? (
+        filteredPosts.map((post) => (
           <article key={post.slug} className="mb-10">
             <Link
               href={{
-	        pathname: '[locale]/shits/[shit]',
+	        pathname: '../../[locale]/shits/[shit]',
 		query: { locale: locale, shit: post.slug },
 	      }}
               className="text-lg leading-6 font-bold"
@@ -37,13 +37,15 @@ export default function NotePage({
 }
 
 export async function getStaticProps({ locale }) {
-  const allPosts = getAllShitPosts(locale, ['slug', 'title', 'excerpt', 'date']);
-
+  const allPosts = getAllShitPosts(locale, ['slug', 'title', 'excerpt', 'date', 'tags']);
+  const filteredPosts = allPosts.filter((post: any) => {
+    return post.tags?.includes("investing")
+  })
   const translationProps = await serverSideTranslations(locale);
 
   return {
     props: {
-      allPosts,
+      filteredPosts,
       locale,
       ...translationProps
     }

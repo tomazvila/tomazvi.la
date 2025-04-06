@@ -43,7 +43,11 @@ export function getShitPostSlugs(locale: string) {
   return fs.readdirSync(withLocale)
 }
 
-export function getShitPostBySlug(slug: string, locale: string, fields: string[] = []) {
+export function getShitPostBySlug(
+	slug: string,
+	locale: string,
+	fields: string[] = [],
+) {
   const withoutLocaleSlug = slug.replace(/\.md$/, '')
   const withLocale = `${locale}/${slug}`
   const realSlug = withLocale.replace(/\.md$/, '')
@@ -53,7 +57,6 @@ export function getShitPostBySlug(slug: string, locale: string, fields: string[]
 
   const items: Post = {}
 
-  // Ensure only the minimal needed data is exposed
   fields.forEach((field) => {
     if (field === 'slug') {
       items[field] = withoutLocaleSlug
@@ -64,6 +67,10 @@ export function getShitPostBySlug(slug: string, locale: string, fields: string[]
 
     if (typeof data[field] !== 'undefined') {
       items[field] = data[field]
+    }
+
+    if (field === 'tags' && data.tags) {
+      items.tags = data.tags
     }
   })
 

@@ -26,6 +26,9 @@ function HomePage() {
       <li>2023-12-27 removed title photo for faster load speeds</li>
       <li>2023-12-28 diarrhea post about 4chan</li>
       <li>2023-12-30 blog post about 2023 fails</li>
+      <li>2025-04-06 dropdown for investing and nerdge in diarrhea section</li>
+      <li>2025-04-06 tag support for diarrhea dropdown filtering</li>
+      <li>2025-04-06 blog post about trying how to learn how to invest</li>
          </ul>
         </div>
       </Container>

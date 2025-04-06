@@ -14,8 +14,6 @@ export default function PostPage({
 }: InferGetStaticPropsType<typeof getStaticProps>) {
   const router = useRouter()
 
-  console.log(`router.isFallback: ${router.isFallback}`)
-
   if (!router.isFallback && !post?.slug) {
     return <ErrorPage statusCode={404} />
   }
@@ -80,7 +78,7 @@ export async function getStaticProps({ params, locale }: Params) {
         ...post,
         content,
       },
-      ...translationProps, // Merge translation props into the props object
+      ...translationProps,
     },
   };
 }
