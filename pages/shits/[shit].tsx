@@ -60,13 +60,24 @@ type Params = {
 }
 
 export async function getStaticProps({ params, locale }: Params) {
-  const post = getShitPostBySlug(params.shit, locale, [
-    'slug',
-    'title',
-    'excerpt',
-    'date',
-    'content',
-  ]);
+  let post: any;
+  try {
+    post = getShitPostBySlug(params.shit, locale, [
+      'slug',
+      'title',
+      'excerpt',
+      'date',
+      'content',
+    ]);
+  } catch {
+    // Post doesn't exist in this locale (e.g. after a language switch) -> go home.
+    return {
+      redirect: {
+        destination: locale && locale !== 'lt' ? `/${locale}` : '/',
+        permanent: false,
+      },
+    };
+  }
 
   const content = await markdownToHtml(post.content || '');
 
@@ -104,7 +115,7 @@ export async function getStaticPaths({ locales }) {
 	locale: locale
       };
     }),
-    fallback: false,
+    fallback: 'blocking',
   }
 
   return res;
