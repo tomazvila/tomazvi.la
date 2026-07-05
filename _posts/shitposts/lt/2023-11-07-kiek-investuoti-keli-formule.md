@@ -1,6 +1,7 @@
 ---
 title: 'Kiek investuoti? Keli formulė'
 date: '2023-11-07T00:00:00.000Z'
+tags: ['investing']
 author:
   name: Tomas Mažvila
   picture: '/assets/blog/authors/TomasMazvilaSatanProfile.png'

@@ -1,6 +1,7 @@
 ---
 title: 'Santykiniai finansiniai rodikliai: likvidumo rodikliai'
 date: '2024-01-28T00:00:00.000Z'
+tags: ['investing']
 author:
   name: Tomas Mažvila
   picture: '/assets/blog/authors/TomasMazvilaSatanProfile.png'

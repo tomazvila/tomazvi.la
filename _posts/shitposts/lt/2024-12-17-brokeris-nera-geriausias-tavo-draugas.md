@@ -1,6 +1,7 @@
 ---
 title: 'Brokeris nėra geriausias tavo draugas.'
 date: '2024-12-17T00:00:00.000Z'
+tags: ['investing']
 author:
   name: Tomas Mažvila
   picture: '/assets/blog/authors/TomasMazvilaSatanProfile.png'
