@@ -9,7 +9,7 @@ ogImage:
   url: '/assets/blog/i-couldnt-it-couldnt-and-then-both-could/chessvision-driving.png'
 ---
 
-## Part 1: The transcriber
+## The transcriber
 A year ago I finished my bachelor's. It took nine years. Two of them went into one project: a chess-video transcriber. Point it at a recording of a game and it tells you the moves. 2D video in, moves out. I never built it the way I wanted. In the end I just made it work. Then a year later AI built the way-I-wanted version in a day, while I sat and watched.
 
 The first problem was finding the chessboard inside a video frame, and OpenCV ships a function built for exactly that: `findChessboardCorners`. I tried it first. It didn't work.
@@ -97,9 +97,13 @@ Over that run it did the thing Opus couldn't: it made the whole engine work, end
 
 And it fucking works.
 
+<video controls width="100%" preload="metadata" poster="/assets/blog/i-couldnt-it-couldnt-and-then-both-could/chessvision-driving.png">
+  <source src="/assets/blog/i-couldnt-it-couldnt-and-then-both-could/it-works.mp4" type="video/mp4" />
+</video>
+
 It did in a day what I couldn't do in two years. And it's just sad that I couldn't.
 
-## Part 2: What can I still own?
+## What can I still own?
 
 The day after it fixed my engine, Fable 5 was taken away, not from me specifically, from everyone. It had been available for a while, but I'd only really used it for about a day.
 
@@ -133,7 +137,7 @@ That's about as far as owning things gets me, and what I can own is real. But th
 
 So the things I get to keep are a local model, a swappable harness, and the small projects I generate myself. The frontier model itself I don't. A hosted one can be capped, repriced, or pulled overnight, and I hold no stake in it. It is also the part that did in days what I couldn't do in two years. Everything is within reach except the one thing that actually beat me.
 
-## Part 3: What am I even for now?
+## What am I even for now?
 
 So if the powerful part is rented, and permanently better than me at my hardest thing, what is left that's mine to be?
 
