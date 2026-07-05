@@ -6,6 +6,7 @@ import Container from '../../components/container'
 import distanceToNow from '../../lib/dateRelative'
 import { getAllShitPosts, getShitPostBySlug } from '../../lib/getPost'
 import markdownToHtml from '../../lib/markdownToHtml'
+import makeDescription from '../../lib/description'
 import Head from 'next/head'
 import { serverSideTranslations } from 'next-i18next/serverSideTranslations'
 
@@ -21,7 +22,11 @@ export default function PostPage({
   return (
     <Container>
       <Head>
-        <title>{post.title} | Tomas Mažvila blog</title>
+        <title>{`${post.title} | Tomas Mažvila blog`}</title>
+        <meta name="description" content={post.description} key="description" />
+        <meta property="og:title" content={post.title} key="og:title" />
+        <meta property="og:description" content={post.description} key="og:description" />
+        <meta property="og:type" content="article" key="og:type" />
       </Head>
 
       {router.isFallback ? (
@@ -68,6 +73,8 @@ export async function getStaticProps({ params, locale }: Params) {
     'content',
   ]);
 
+  const description = makeDescription(post.excerpt || post.content || '');
+
   const content = await markdownToHtml(post.content || '');
 
   const translationProps = await serverSideTranslations(locale);
@@ -77,6 +84,7 @@ export async function getStaticProps({ params, locale }: Params) {
       post: {
         ...post,
         content,
+        description,
       },
       ...translationProps,
     },

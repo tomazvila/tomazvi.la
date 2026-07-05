@@ -18,7 +18,8 @@ function App({ Component, pageProps }: AppProps) {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta
           name="description"
-          content="Clone and deploy your own Next.js portfolio in minutes."
+          content="Essays and posts by Tomas Mažvila."
+          key="description"
         />
         <title>Tomas Mažvila blog</title>
       </Head>
