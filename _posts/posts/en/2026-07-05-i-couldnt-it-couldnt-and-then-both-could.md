@@ -10,7 +10,7 @@ ogImage:
 ---
 
 ## The transcriber
-A year ago I finished my bachelor's. It took nine years. Two of them went into one project: a chess-video transcriber. Point it at a recording of a game and it tells you the moves. 2D video in, moves out. I never built it the way I wanted. In the end I just made it work. Then a year later AI built the way-I-wanted version in a day, while I sat and watched.
+A year ago I finished my bachelor's. It took nine years. Two of them went into one project: a chess-video transcriber. Point it at a recording of a game and it tells you the moves. 2D video in, moves out. I never built it the way I wanted. In the end I just made it work. Then a year later AI built the way-I-wanted version while I slept.
 
 The first problem was finding the chessboard inside a video frame, and OpenCV ships a function built for exactly that: `findChessboardCorners`. I tried it first. It didn't work.
 
