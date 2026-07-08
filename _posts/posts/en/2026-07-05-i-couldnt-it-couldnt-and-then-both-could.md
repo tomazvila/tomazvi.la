@@ -63,6 +63,10 @@ The pieces were where I actually got stuck. I generated and labeled my own train
 
 ![The CNN overfitting: a real board read as almost all knights](/assets/blog/i-couldnt-it-couldnt-and-then-both-could/cnn-overfitting.png)
 
+![Another overfit run, the board read as a jumble of queens and bishops](/assets/blog/i-couldnt-it-couldnt-and-then-both-could/cnn-overfitting-2.png)
+
+![And another, nearly every square guessed as a queen or king](/assets/blog/i-couldnt-it-couldnt-and-then-both-could/cnn-overfitting-3.png)
+
 I tried YOLOv8, thinking object detection would do it. That failed too. I went to my thesis defense that year anyway, with a half-built product that didn't run, and I failed. I had nothing to show. The one useful thing I got out of it was advice from the professors: forget the neural network, they said, and just match the pieces against stored templates with OpenCV. Then I set the project aside and waited for the next academic year.
 
 When I came back a year later I tried to get the CNN working one more time and still couldn't. So I took the professors' advice from the failed defense and fell back to OpenCV template matching, and it just worked. For each of the 64 squares I correlated the tile against a stored image of each piece and took the best match. It took maybe half an hour. I fiddled with the threshold a few times until one stuck. It read the board. Only for one piece set, but that was enough. I was pointing it at a single video, so lighting and resolution never varied enough to matter. Template matching can't read a piece set it has no template for, and it would fall apart on a different site or theme. I just wanted to pass and be done. Just make it work, finally.
