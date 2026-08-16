@@ -2,11 +2,6 @@
 title: 'Trydos žodžio laisvė nėra absoliuti'
 coverImage: '/assets/blog/gypsies/snatch.png'
 date: '2023-12-26T20:41:00.000Z'
-author:
-  name: Tomas Mažvila
-  picture: '/assets/blog/authors/TomasMazvilaSatanProfile.png'
-ogImage:
-  url: '/assets/blog/gypsies/snatch.png'
 ---
 Dieną po to, kai pasidalinau savo įrašu apie romus gavau skambutį iš savo didžiausių fanų: tėčio ir mamos. Mama bandė gražiuoju paaiškinti, kad aš turėčiau išiimti įrašą. Tėtis sakė jei neįšimsiu aš, tai jis pats paskųs mane už nesantaikos kurstymą. Daug negalvojęs iškart išėmiau įrašą ir tada ėmiau daug* galvoti kodėl aš išėmiau įrašą. Kritika dėl prasto stiliaus ir keiksmažodžių pelnyta, o įžeidų žodį „Čigonas“\*\* galima pakeisti į „Romas“. Bet to negana. Pagal mano mamą, mane ir be to būtų galima paduoti į teismą už nesantaikos kurstymą. Tuo metu aš buvau labai sutrikęs. Juk aš nerašiau netiesos. Aš matau problemą ir praleidau popietę galvodamas, ką dėl to būtų galima padaryti. Viskas tekste yra atpasakota būtent taip kaip buvo. Jei krypuoja kaip antis, atrodo kaip antis, negi aš negaliu parašyt, kad ten galbūt ir yra antis? Ir kad *galbūt* ta antis gali *kreksėti*, nes aš mačiau, kaip iki šiol kitos antys kreksėdavo? Taigi yra įstatymas sako man mama. Koks įstatymas, kur tas įstatymas? Nežinau, pats **pasieiškok**, va ***Mažai***lienė\*\*\* jau turėjo problemų...
 

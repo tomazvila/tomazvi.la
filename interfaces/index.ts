@@ -1,10 +1,9 @@
 export type Post = {
   slug?: string
   title?: string
-  author?: string
-  date?: Date
+  date?: string
   content?: string
-  excerpt?: string
-  tags?: []
+  tags?: string[]
+  coverImage?: string
   [key: string]: any
 }

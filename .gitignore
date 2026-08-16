@@ -34,3 +34,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# machine-local operator notes; kept out of the repo. This lives here rather
+# than in .git/info/exclude so the rule survives a clone or a restore.
+HANDOVER.md

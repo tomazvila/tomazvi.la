@@ -2,11 +2,7 @@
 title: 'Killer dolphins'
 coverImage: '/assets/blog/killer-dolphins/title-dolphin.png'
 date: '2023-11-19T00:00:00.000Z'
-author:
-  name: Tomas Mažvila
-  picture: '/assets/blog/authors/TomasMazvilaSatanProfile.png'
-ogImage:
-  url: '/assets/blog/killer-dolphins/title-dolphin.png'
+translation: '2023-11–19-delfinai-zudikai'
 ---
 
 ![](/assets/blog/killer-dolphins/title-dolphin.png)

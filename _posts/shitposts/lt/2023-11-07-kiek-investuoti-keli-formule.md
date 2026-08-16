@@ -2,9 +2,6 @@
 title: 'Kiek investuoti? Keli formulė'
 date: '2023-11-07T00:00:00.000Z'
 tags: ['investing']
-author:
-  name: Tomas Mažvila
-  picture: '/assets/blog/authors/TomasMazvilaSatanProfile.png'
 ---
 
 Ar yra kada tekę nusipirkti įmonės akcijų, ir, pamačius, kaip kyla kaina parduoti jas vien tik tam, kad pelno džiaugsmą greit pakeistų kartėlis stebint, kaip akcijos kaina ir toliau kyla vis aukštyn ir aukštyn? Man yra tekę (FB, NVDA)... Iš to išmokau pamoką, kad, prieš investuojant, yra labai svarbu turėti strategiją. Manau, privalu žinoti ne tik, ką perki, ir, kodėl perki, bet ir kam, kada bei už kiek parduosi. Kaip vertinti įmones radau daug informacijos, tačiau, tik neseniai atradau kaip matematiškai tinkamai paskirstyti savo kapitalą atsižvelgiant į numanomą riziką. Mane nustebino, kad net būnant tobulai informuotam apie investicijas ir jų sėkmės tikimybes, netinkamai pasirinkus investicines sumas galima nudegti ir prarasti investuotus pinigus. Kad tuo įsitikintumėt, kviečiu pažaisti žaidimą. Žaidimas prasideda su 100€. Yra metama moneta. Jei iškrenta skaičius laimima 20% pastatytos sumos, jei iškrenta herbas prarandama 17% pastatytos sumos. Ar verta žaisti? Kiek kartų žaistumėt? Kiek reikėtų pastatyti su tikslu gauti kuo didesnę gražą?

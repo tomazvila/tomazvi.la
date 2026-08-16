@@ -2,11 +2,6 @@
 title: 'It did in a day what I couldn''t do in two years'
 coverImage: '/assets/blog/i-couldnt-it-couldnt-and-then-both-could/chessvision-driving.png'
 date: '2026-07-05T00:00:00.000Z'
-author:
-  name: Tomas Mažvila
-  picture: '/assets/blog/authors/TomasMazvilaSatanProfile.png'
-ogImage:
-  url: '/assets/blog/i-couldnt-it-couldnt-and-then-both-could/chessvision-driving.png'
 ---
 
 ## The transcriber

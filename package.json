@@ -2,16 +2,15 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "prebuild": "node scripts/gen-shit-tags.js",
+    "prebuild": "node scripts/gen-shit-tags.js && node scripts/check-assets.js",
     "build": "next build",
     "start": "next start"
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.5.7",
-    "date-fns": "^2.29.3",
     "gray-matter": "4.0.3",
     "i18next": "^23.6.0",
-    "next": "latest",
+    "next": "14.0.0",
     "next-i18next": "^14.0.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",

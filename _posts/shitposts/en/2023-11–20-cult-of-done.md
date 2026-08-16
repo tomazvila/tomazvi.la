@@ -2,11 +2,7 @@
 title: 'Cult of done'
 coverImage: '/assets/blog/darau-ble/title.webp'
 date: '2023-11-20T00:00:00.000Z'
-author:
-  name: Tomas Mažvila
-  picture: '/assets/blog/authors/TomasMazvilaSatanProfile.png'
-ogImage:
-  url: '/assets/blog/darau-ble/title.webp'
+translation: '2023-11–20-darau-ble'
 ---
 
 The Cult of Done Manifesto is a special document. Written by [Kio Stark](http://kiostark.com/) and Bre Pettis in 2009. For Bre Pettis it is a map of his 2009 heart. Its his life, soul and passion for unbridled creativity. Kio and Bre shared writing credit on it, licenced it with Creative Commons and put it out into the world. Immediately a few folks made visual representations of it and it spread like wildfire for people who need a creative jumpstart.

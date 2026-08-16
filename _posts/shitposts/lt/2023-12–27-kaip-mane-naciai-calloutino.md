@@ -2,11 +2,6 @@
 title: 'Kaip mane naciai calloutino'
 coverImage: '/assets/blog/naciai/200.jpg'
 date: '2023-12-27T23:00:00.000Z'
-author:
-  name: Tomas Mažvila
-  picture: '/assets/blog/authors/TomasMazvilaSatanProfile.png'
-ogImage:
-  url: '/assets/blog/naciai/200.jpg'
 ---
 
 # 4chan

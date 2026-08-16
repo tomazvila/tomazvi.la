@@ -2,11 +2,6 @@
 title: 'Kaip dviratį iki Vilniaus myniau'
 coverImage: '/assets/blog/dvirati-myniau-vilniu/DviracioZygioCover.png'
 date: '2023-09-11T00:00:00.000Z'
-author:
-  name: Tomas Mažvila
-  picture: '/assets/blog/authors/TomasMazvilaSatanProfile.png'
-ogImage:
-  url: '/assets/blog/dvirati-myniau-vilniu/DviracioZygioCover.png'
 ---
 
 # Pirmas pasivažinėjimas su dviračiu

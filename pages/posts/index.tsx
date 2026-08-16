@@ -1,31 +1,29 @@
 import type { InferGetStaticPropsType } from 'next'
 import Link from 'next/link'
+import { useRouter } from 'next/router'
 import Container from '../../components/container'
-import distanceToNow from '../../lib/dateRelative'
-import { getAllPosts } from '../../lib/getPost'
+import formatDate from '../../lib/formatDate'
+import { posts } from '../../lib/getPost'
 import { serverSideTranslations } from 'next-i18next/serverSideTranslations'
 
 export default function NotePage({
   allPosts,
-  locale
 }: InferGetStaticPropsType<typeof getStaticProps>) {
+  const { locale } = useRouter()
+
   return (
     <Container>
       {allPosts.length ? (
         allPosts.map((post) => (
           <article key={post.slug} className="mb-10">
             <Link
-              href={{
-	        pathname: '[locale]/posts/[slug]',
-		query: { locale: locale, slug: post.slug },
-	      }}
+              href={`/posts/${post.slug}`}
               className="text-lg leading-6 font-bold"
             >
               {post.title}
             </Link>
-            <p>{post.excerpt}</p>
             <div className="text-gray-400">
-              <time>{distanceToNow(new Date(post.date))}</time>
+              <time dateTime={post.date}>{formatDate(post.date, locale)}</time>
             </div>
           </article>
         ))
@@ -37,15 +35,10 @@ export default function NotePage({
 }
 
 export async function getStaticProps({ locale }) {
-  const allPosts = getAllPosts(locale, ['slug', 'title', 'excerpt', 'date']);
-
-  const translationProps = await serverSideTranslations(locale);
-
   return {
     props: {
-      allPosts,
-      locale,
-      ...translationProps // Merge translation props into the props object
-    }
-  };
+      allPosts: posts.getAll(locale, ['slug', 'title', 'date']),
+      ...(await serverSideTranslations(locale)),
+    },
+  }
 }

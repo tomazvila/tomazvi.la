@@ -2,9 +2,6 @@
 title: 'Santykiniai finansiniai rodikliai: likvidumo rodikliai'
 date: '2024-01-28T00:00:00.000Z'
 tags: ['investing']
-author:
-  name: Tomas Mažvila
-  picture: '/assets/blog/authors/TomasMazvilaSatanProfile.png'
 ---
 
 Didžioji dalis finansinių patarėjų rekomenduoja investuoti į subalansuotus investicinius fondus. Tačiau toks investavimo procesas yra ilgas ir nuobodus, todėl didesnę rizikos toleranciją turintys investuotojai mėgsta investuoti į pavienes akcijas. Teisingai atrinktos pavienės akcijos gali padidinti krepšelio grąžą tiek dėl didesnių nei rinkos vidurkis dividendų, tiek dėl spartesnio nei rinkos vidurkis kainos kilimo tam tikrais laikotarpiais. Bet su pavienėmis akcijomis sietina didesnė rizika nei su fondais, nes investuotojas prisiima ne tūkstančių, o vos vienos įmonės riziką. Siekdami kuo labiau tą riziką sumažinti investuotojai, prieš pasirinkdamas įmonę, kurios akcijas pirks, atlieka analizę, kad perkamos įmonės akcijos būtų atrinktos teisingai ir būtų galima uždirbti kuo daugiau grąžos.

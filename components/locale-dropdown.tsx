@@ -1,31 +1,55 @@
-// LocaleDropdown.tsx
-
 import { useState } from 'react';
-import { useTranslation } from 'next-i18next';
 import { useRouter } from 'next/router';
 
+type LocaleDropdownProps = {
+  translation: string
+  // Path of the current page in each other locale, when one exists. Post pages
+  // supply this from their `translation` frontmatter key.
+  alternates?: Record<string, string>
+}
 
-const LocaleDropdown: React.FC<any> = ({ translation }) => {
-  const { i18n } = useTranslation();
+const LANGUAGES = [
+  { locale: 'en', label: 'English' },
+  { locale: 'lt', label: 'Lietuvių' },
+]
+
+export default function LocaleDropdown({ translation, alternates }: LocaleDropdownProps) {
   const router = useRouter();
   const [showDropdown, setShowDropdown] = useState(false);
 
-  const changeLanguage = (lang: string) => {
-    i18n.changeLanguage(lang);
-    setShowDropdown(false); // Close the dropdown after selecting a language
-    router.push(router.pathname, router.asPath, { locale: lang });
+  // Slugs and tags are per-locale, so carrying the current one into another
+  // locale asks for a page that was never generated. Use the declared
+  // counterpart when there is one; otherwise there is nothing to switch to, so
+  // go to the homepage rather than a URL that cannot exist.
+  const targetPath = (locale: string) => {
+    if (alternates?.[locale]) return alternates[locale]
+    return router.pathname.includes('[') ? '/' : router.asPath
+  }
+
+  // The router locale is the single source of truth for the language:
+  // next-i18next rebuilds its i18n instance from it on every navigation.
+  const changeLanguage = (locale: string) => {
+    setShowDropdown(false);
+    router.push(targetPath(locale), undefined, { locale });
   };
 
   return (
     <div className="locale-dropdown">
-      <div className="dropdown-header" onClick={() => setShowDropdown(!showDropdown)}>
+      <button
+        type="button"
+        className="dropdown-header"
+        aria-expanded={showDropdown}
+        onClick={() => setShowDropdown(!showDropdown)}
+      >
         { translation }
-      </div>
+      </button>
       {showDropdown && (
         <div className="dropdown-content">
-          <button onClick={() => changeLanguage('en')}>English</button>
-          <button onClick={() => changeLanguage('lt')}>Lietuvių</button>
-          {/* Add more buttons for other languages */}
+          {LANGUAGES.map(({ locale, label }) => (
+            <button key={locale} onClick={() => changeLanguage(locale)}>
+              {label}
+            </button>
+          ))}
         </div>
       )}
       <style jsx>{`
@@ -35,17 +59,23 @@ const LocaleDropdown: React.FC<any> = ({ translation }) => {
         }
         .dropdown-header {
           cursor: pointer;
+          border: none;
+          background: none;
+          padding: 0;
+          font: inherit;
+          color: inherit;
         }
         .dropdown-content {
           display: block;
           position: absolute;
+          right: 0;
           background-color: #f9f9f9;
           min-width: 100px;
           box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
           z-index: 1;
-          display: ${showDropdown ? 'block' : 'none'};
         }
         .dropdown-content button {
+          display: block;
           width: 100%;
           padding: 8px 12px;
           text-align: left;
@@ -60,6 +90,3 @@ const LocaleDropdown: React.FC<any> = ({ translation }) => {
     </div>
   );
 };
-
-export default LocaleDropdown;
-

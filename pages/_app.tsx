@@ -4,7 +4,6 @@ import type { AppProps } from 'next/app'
 import Head from 'next/head'
 import Header from '../components/header'
 import { appWithTranslation } from 'next-i18next'
-import { useRouter } from 'next/router';
 
 function App({ Component, pageProps }: AppProps) {
 
@@ -20,7 +19,9 @@ function App({ Component, pageProps }: AppProps) {
         <title>Tomas Mažvila blog</title>
       </Head>
 
-      <Header/>
+      {/* Post pages declare where they live in the other locale, if anywhere,
+          so the language switcher in the header can route there. */}
+      <Header alternates={pageProps.localeAlternates} />
 
       <main className="py-14">
         <Component {...pageProps} />
