@@ -1,7 +1,6 @@
 import type { InferGetStaticPropsType } from 'next'
 import { useRouter } from 'next/router'
 import ErrorPage from 'next/error'
-import Comment from '../../components/comments'
 import Container from '../../components/container'
 import distanceToNow from '../../lib/dateRelative'
 import { getAllShitPosts, getShitPostBySlug } from '../../lib/getPost'
@@ -49,8 +48,6 @@ export default function PostPage({
               dangerouslySetInnerHTML={{ __html: post.content }}
             />
           </article>
-
-          <Comment />
         </div>
       )}
     </Container>
